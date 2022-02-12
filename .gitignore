@@ -1,0 +1,7 @@
+data/*
+.idea/*
+Project/data/*
+checkpoints/*
+embeddings/*
+data.csv
+wandb/*
